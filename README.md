@@ -1,16 +1,15 @@
-
 # Glucow
 
-An open-source way to manage your levels, without having to worry about control. 
+An open-source and customised way to manage your levels.
 
-Glucow was made to be simple to use, yet packed with features, both custom and known features you all love from other third party apps. 
+Glucow was made to be simple to use, yet packed with features, both custom and known features you all love. 
 
 
 
 ## Features
 
 - Light/dark mode
-- Real-time minute Notifications warning about levels
+- Real-time minute notifications
 - Modern graph that plots real-time minute data for following
 - Glucose levels can be written to Apple Health app, on request from the user
 - Custom alarms, customizable with their sound, volume, and notification that comes along with it. 
@@ -29,22 +28,12 @@ Please bare in mind that this project is still in development and highly experim
 
 ## Installation
 
-As of now, Glucow can be installed using 2 different methods: 
-
-1. TestFlight. Currently, a maximum of 10,000 people can use the TestFlight link:
-
-```bash
-  https://www.testflight.apple.com/
-```
-2. Build from Source. If you wish to build from source, please have a look at the build instructions on https://glucow.com
+As of now, Glucow can be installed using only 2 different methods. Please have a look at https://www.glucow.com/install to find out how you can use Glucow.
 
 
 ## License
 
 [GNU](https://choosealicense.com/licenses/gnu/)
-
-
-
 
 ## Acknowledgements
 
